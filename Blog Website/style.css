@@ -1,0 +1,35 @@
+#van {
+    position: sticky;
+    top: 0px;
+    z-index: 9;
+}
+.bot2 {
+    color:#00ff0e;
+    font-family: monospace;
+}
+#bot3 {
+    color: yellow;
+    font-size: 300%;
+    font-family: sans-serif;
+}
+body {
+    /*background-color: #42455a;*/
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url("835466.jpg");
+    background-size: cover;
+    background-position: contain;
+}   
+.box1{
+    text-decoration: none;
+    border: 1px solid #fff;
+}
+#engme{
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+#style{
+    float: right;
+}
+span{
+    color: yellow;
+}
